@@ -1,0 +1,40 @@
+
+body{
+    background: black;
+
+}
+tr{
+    height: 30px;
+    background-color: darkgray;
+    border: 1px solid black;
+}
+td{
+    width: 30px;
+    background-color: darkgray;
+    border: 1px solid black;
+}
+table{
+    
+    border-collapse: collapse;
+}
+.cabecalho {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.quadradoGrande{ 
+    display: flex;
+    justify-content: center;
+    
+}
+.celulaCor{
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+nav {
+    
+    padding: 50px 20px;
+}

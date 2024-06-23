@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+#resultados{
+    color: black;
+    text-align: center;
+}
+nav {
+    padding: 50px 20px;
+    
+}

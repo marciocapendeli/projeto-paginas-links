@@ -1,0 +1,26 @@
+
+
+body {
+    background-color: lightgrey;
+}
+h1 {
+    text-align: center;
+}
+.imagens-pai{
+    display: flex;   
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.imagem-filho {
+    
+    height: 40px;
+}
+
+hr {
+    width: 80%; 
+    border: 1px solid black; 
+    margin: 20px 0;
+}
